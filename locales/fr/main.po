@@ -1,0 +1,57 @@
+# Language: Français
+# Module: highlightSearch - 1.4-dev
+# Date: 2023-01-27 02:46:52
+# Author: Pierre Van Glabeke
+# Translated with translater 2022.12.26
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: highlightSearch 1.4-dev\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-01-27T02:46:52+00:00\n"
+"Last-Translator: Pierre Van Glabeke\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: _admin.php:24
+msgid "highlightSearch"
+msgstr "Recherche surlignée"
+
+#: _admin.php:26
+msgid "Activate highlightSearch"
+msgstr "Activer highlightSearch"
+
+#: _admin.php:27
+msgid "Highlight found words:"
+msgstr "Mise en valeur des mots trouvés :"
+
+#: _admin.php:28
+msgid "Yellow highlight"
+msgstr "Surlignage jaune"
+
+#: _admin.php:28
+msgid "Red highlight"
+msgstr "Surlignage rouge"
+
+#: _admin.php:28
+msgid "Green highlight"
+msgstr "Surlignage vert"
+
+#: _admin.php:28
+msgid "Blue highlight"
+msgstr "Surlignage bleu"
+
+#: _admin.php:28
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: _admin.php:29
+msgid "Select \"custom\" if you define the CSS class \"found\" in your own style sheet."
+msgstr "Sélectionnez \"personnalisé\" si vous définissez la classe \"found\" dans votre propre feuille de style."
+
+msgid "Words found after a search take the CSS class \"found\""
+msgstr "Les mots trouvés suite à une recherche prennent la classe CSS \"found\""
+
