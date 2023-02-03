@@ -1,15 +1,15 @@
 # Language: Français
-# Module: highlightSearch - 1.4-dev
-# Date: 2023-01-27 02:46:52
+# Module: highlightSearch - 1.4
+# Date: 2023-02-03 10:39:36
 # Author: Pierre Van Glabeke
 # Translated with translater 2022.12.26
 
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: highlightSearch 1.4-dev\n"
+"Project-Id-Version: highlightSearch 1.4\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-01-27T02:46:52+00:00\n"
+"PO-Revision-Date: 2023-02-03T10:39:36+00:00\n"
 "Last-Translator: Pierre Van Glabeke\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"

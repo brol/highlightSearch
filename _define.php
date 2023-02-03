@@ -13,9 +13,9 @@ if (!defined('DC_RC_PATH')) { return; }
 
 $this->registerModule(
     'highlightSearch',
-    'Words found after a search take the CSS class \"found\"',
+    'Words found after a search take the CSS class "found"',
     'Keul and contributors',
-    '1.4-dev',
+    '1.4',
     [
         'requires'    => [['core', '2.24']],
         'permissions' => dcCore::app()->auth->makePermissions([

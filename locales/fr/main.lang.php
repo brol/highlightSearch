@@ -1,7 +1,7 @@
 <?php
 // Language: Français
 // Module: highlightSearch - 
-// Date: 2023-01-27 02:46:52
+// Date: 2023-02-03 10:39:36
 // Author: Pierre Van Glabeke
 // Translated with dcTranslater - 2022.12.26
 
